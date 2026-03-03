@@ -34,32 +34,7 @@ My approach prioritizes maintainability, performance, and clean architecture.
 
 ---
 
-## Selected Projects
-
-### Web-Based Information System
-Backend-focused architecture with Laravel REST API and structured React frontend.
-
-- Modular API design
-- Optimized relational database structure
-- Designed for VPS deployment
-- Clear separation between business logic and presentation layer
-
-👉 Repository: https://github.com/goldieblink-dev/your-project
-
----
-
-## System Design Principles
-
-When building applications, I prioritize:
-
-- Scalability through modular architecture
-- Maintainability via clean and consistent structure
-- Performance with efficient database queries
-- Predictable error handling and validation flow
-
----
-
 ## Contact
 
 Gitmono: https://github.com/goldieblink-dev  
-Email: your-email@example.com
+Email: blinkgoldie@gmail.com
