@@ -36,5 +36,5 @@ My approach prioritizes maintainability, performance, and clean architecture.
 
 ## Contact
 
-Gitmono: https://github.com/goldieblink-dev  
+Instagram: https://www.instagram.com/rendyusman._/
 Email: blinkgoldie@gmail.com
