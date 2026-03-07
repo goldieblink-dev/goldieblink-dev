@@ -1,6 +1,6 @@
 # Rendy Julkifli Usman
 
-Fullstack Developer (Backend-Oriented)
+Fullstack Developer
 
 I build scalable web applications using Laravel and React.js, with a strong focus on system structure, database efficiency, and Linux-based environments.  
 My approach prioritizes maintainability, performance, and clean architecture.
