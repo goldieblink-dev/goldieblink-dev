@@ -40,13 +40,6 @@ I build **clean, maintainable, and production-ready web applications** with a fo
 
 ---
 
-## 📈 GitHub Stats
-
-![Goldie's GitHub stats](https://github-readme-stats.vercel.app/api?username=goldieblink-dev&show_icons=true&theme=dark&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=goldieblink-dev&layout=compact&theme=dark&hide_border=true)
-
----
-
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
